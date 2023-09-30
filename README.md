@@ -1,5 +1,5 @@
 # 8-bit-computer-CPU-design
-A CPU design for the 8-bit computer using VHDL.
+A CPU design for an 8-bit computer using VHDL.
 The main parts of the CPU are:
 
 * Logic and computing unit that is used to perform logical and computing operations.
