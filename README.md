@@ -10,7 +10,9 @@ A simple CPU has been implemented here. Its main parts are control unit, memory 
 The schema is as follows:
 ![schema](https://github.com/nikimajidifard/8-bit-computer-CPU-design/assets/56204470/f93e985f-4e6c-4723-aa2f-3efe3b2c5f9f)
 
-More description is availabe on [Description.pdf](https://github.com/nikimajidifard/8-bit-computer-CPU-design/files/12773108/Description.pdf) (fa).
+
+
+Test results, implemention of this CPU using a state machine and more description are availabe on [Description.pdf](https://github.com/nikimajidifard/8-bit-computer-CPU-design/files/12773108/Description.pdf) (fa).
 
 
 
